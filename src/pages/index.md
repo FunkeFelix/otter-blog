@@ -5,7 +5,7 @@ image: /img/weed-title.jpg
 heading: Otter Blog
 subheading: "Schwimme in Erfolg: Otter-Blog hilft dir beim Anbau von Cannabis."
 mainpitch:
-  title: Why Kaldi
+  title: Why Otter
   description: >
     Wir glauben, dass der Anbau von Cannabis eine wunderbare Möglichkeit ist,
     sich selbst zu versorgen und gleichzeitig etwas für die Umwelt zu tun.
